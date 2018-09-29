@@ -1,3 +1,5 @@
+MSER (pre-processing) and CNN to classify and count bacteria in microscopic images to improve efficiency and reliability of bacterial vaginosis (BV) diagnosis.
+
 
 ## Miscellaneous
 #### pyinstaller: compile Python files (i.e. *.py) to Windows executables (i.e. *.exe)
